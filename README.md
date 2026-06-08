@@ -7,9 +7,19 @@
 
 ## About Me
 
+> *"I'm a marketing leader who combines analytical rigor with consumer behavior — shaped by work across four continents and a belief that purpose is achieved by making a real difference."*
+
 I'm a third-year Marketing student at DU (3.63 GPA, Dean's List, Hornbeck Scholar) with a focus on market research and business analytics. My work spans the full research lifecycle — from designing Qualtrics surveys and conducting qualitative interviews, to building regression models, time-series forecasts, and Monte Carlo simulations in Excel. I've applied these skills in academic settings and internationally, including a summer working with the Ponheary Ly Foundation in Siem Reap, Cambodia.
 
+**What I want to be known for:**
+
+- **Purpose-driven storytelling** — keeping the *why* at the center of the work and telling real stories about real impact, from Cambodia to Colorado.
+- **Consumer insight & empathy** — understanding people and their behavior first, then building strategy around what actually moves them.
+- **Analytical rigor** — letting evidence lead, whether that's regression, forecasting, simulation, or a clean read of the data behind a recommendation.
+
 **Core skills:** Qualtrics · Excel (regression, time-series, simulation, pivot tables) · Statistical modeling · Survey design · Consumer insight · Managerial reporting · Business Model Canvas
+
+**Let's connect.** I'm always up for a coffee chat, and I'm actively open to marketing internships and opportunities where I can do work that makes a real difference. Reach me at alexclaunch05@gmail.com or on [LinkedIn](https://www.linkedin.com/in/alexclaunch).
 
 ---
 
@@ -17,9 +27,10 @@ I'm a third-year Marketing student at DU (3.63 GPA, Dean's List, Hornbeck Schola
 
 ```
 marketing-analytics-portfolio/
-├── 01_market-research/        ← End-to-end primary research (MKTG 2930)
-├── 02_business-analytics/     ← Regression, forecasting & simulation (INFO 2020)
-└── 03_entrepreneurship/       ← Startup development & case analysis
+├── 01_market-research/         ← End-to-end primary research (MKTG 2930)
+├── 02_business-analytics/      ← Regression, forecasting & simulation (INFO 2020)
+├── 03_entrepreneurship/        ← Startup development & case analysis
+└── 04_business-communications/ ← Live client case: Food Bank of the Rockies
 ```
 
 ---
@@ -146,6 +157,41 @@ Conducted and wrote a profile of Gabe Allen, founder of MT Provisions, a Colorad
 
 ---
 
+### 🤝 04 — Business Communications (Live Client Case)
+**Term:** Spring 2026
+
+A semester-long live case in professional and persuasive business communication, culminating in a real consulting engagement with a Denver nonprofit. The work centered on client-facing communication, team collaboration, and turning analysis into a recommendation a busy executive could act on.
+
+**Project: Activating Workplace Giving**
+**Client:** Food Bank of the Rockies (FBR) — the largest-service-area food bank in the U.S., serving all of Colorado and Wyoming
+
+**Problem.** Workplace giving brought in only ~$1.5M of FBR's ~$31M philanthropic budget (under 5%) and had no dedicated owner — low-hanging fruit that had sat untouched for three years. FBR was already enrolled in the major platforms (Benevity, YourCause, Bonterra), so the real gap was activation, not enrollment — and demand was about to spike, with up to 298,000 Coloradans facing SNAP cuts just as FBR's newly expanded facility doubled its capacity.
+
+**Action.**
+- Partnered with FBR's development team, including a discovery session with the client to understand their budget, platforms, and constraints firsthand
+- Worked as part of a student team to research corporate workplace-giving mechanics — volunteer "Dollars for Doers" grants and matching gifts — and to size the opportunity
+- Built the case for a dedicated, part-time workplace-giving lead focused on lead generation, anchored by Arrow and Prologis as early employers to prove the model fast
+- Tailored every deliverable to its audience: a persuasive leadership presentation, an executive one-pager, and a plain-language summary written directly for the client contact
+- Applied AIM (Audience–Intent–Message) planning to keep each deliverable focused on what the client could actually act on
+
+**Results.**
+- Delivered a concrete, low-cost recommendation projected to generate **$350K+ per year — roughly one million additional meals** — by capturing just 1 in 4 of FBR's 140,000 annual volunteer hours, without asking volunteers for a cent
+- Packaged it into a 90-day, mostly-free activation plan the development team could hand to a new hire
+- Demonstrated professional client communication and teamwork: presenting to senior stakeholders, writing for a specific reader, and coordinating a multi-person team toward a single, polished set of deliverables
+
+**Skills demonstrated:** Client communication · Persuasive presentation · AIM message planning · Team collaboration · Nonprofit & cause marketing · Opportunity sizing · Executive summary writing
+
+**Files in this folder:**
+| File | Description |
+|---|---|
+| `Final-Live-Case-Presentation.pptx` | The final persuasive presentation deck |
+| `Workplace-Giving-One-Pager.pdf` | Executive one-pager summarizing the opportunity and the ask |
+| `Workplace-Giving-Summary.pdf` | Plain-language summary written for FBR's development team |
+| `AIM-Presentation-Brief.docx` | Audience–Intent–Message planning brief behind the presentation |
+| `FBR-Discovery-Session-Notes.docx` | Notes from the discovery session with FBR |
+
+---
+
 ## Skills Summary
 
 | Category | Tools & Methods |
@@ -154,8 +200,19 @@ Conducted and wrote a profile of Gabe Allen, founder of MT Provisions, a Colorad
 | Statistical Modeling | Multiple regression, time-series forecasting, Monte Carlo simulation, hypothesis testing |
 | Data Tools | Microsoft Excel (regression, moving averages, Goal Seek, simulation), JMP |
 | Market Intelligence | Hoovers, Mintel, secondary market research |
+| Client & Stakeholder Communication | Persuasive presentations, executive summaries, AIM message planning, audience-tailored writing |
 | Reporting & Presentation | Managerial reports, executive summaries, investor pitch decks |
+| AI & Collaboration Tools | Practical AI use / AI literacy (Claude, ChatGPT) for brainstorming, drafting, summarizing & editing; Scribbe AI for meeting capture; Microsoft Teams, Slack & Zoom for team collaboration |
 | Frameworks | Business Model Canvas, SWOT, segmentation & positioning, product-market fit |
+
+---
+
+## AI Use Statement
+
+I use AI tools as a thinking and drafting aid — not a substitute for my own judgment — and in line with academic integrity and professional best practice.
+
+- **Tools I've used.** AI assistants (Claude and ChatGPT) for brainstorming angles, structuring outlines, drafting and tightening copy, and summarizing source material. For the Food Bank of the Rockies engagement, I also used Scribbe AI to transcribe and summarize the client discovery session.
+- **How I ensured quality and integrity.** I fact-checked every figure and claim against the client's own materials and the discovery notes before it entered a deliverable; I protected client and team confidentiality and shared only what was appropriate; I revised every AI-assisted draft into my own voice; and I verified accuracy and sourcing so the final recommendation reflected my own analysis and judgment.
 
 ---
 
